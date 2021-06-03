@@ -45,8 +45,4 @@ public class Informe {
         return "El informe con codigo "+codigo+" tiene la tarea "+tarea;
     }
     
-            
-    
-    
-    
 }
