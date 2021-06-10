@@ -40,7 +40,7 @@ public class InformeApp {
         
         //Mostramos los ultimos informes
         aux=new ListaEnlazada<>();
-        
+        //Mostroar
         while(!informes.estaVacia()){
             aux.insertarUltimo(informes.devolverUltimo());
             informes.quitarUltimo();
